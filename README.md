@@ -1,9 +1,7 @@
-# Fedora-Post-Install
+# Fedora-Post-Install 
 Stuff I install after installing Fedora 39 Workstation
 
-
-Fedora 39 post install
-Based on:
+## Based on:
 https://github.com/devangshekhawat/Fedora-39-Post-Install-Guide
 
 
