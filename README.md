@@ -170,5 +170,14 @@ This is fork of Git's Atom IDE after Git dropped it
 
 	sudo dnf install enpass
  
+## Other apps to add
 
+* telegram-desktop - Telegram for the desktop
+* epiphany - Gnome's web-browser which is a clone of Safari
+* gimp - photo and graphics editor
+* steam - Steam's Linux client
+* lutris - consolidated games launcher and installer, see:  https://lutris.net/
+
+	sudo dnf install telegram-desktop epiphany gimp steam lutris
+ 	
 
