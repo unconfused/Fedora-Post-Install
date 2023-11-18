@@ -178,6 +178,8 @@ This is fork of Git's Atom IDE after Git dropped it
 * steam - Steam's Linux client
 * lutris - consolidated games launcher and installer, see:  https://lutris.net/
 
+Consolidated command:
+
 	sudo dnf install telegram-desktop epiphany gimp steam lutris
  	
 
