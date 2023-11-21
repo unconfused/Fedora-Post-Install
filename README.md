@@ -118,6 +118,12 @@ Add...
  
  ...in Kernel Parameters under General Settings in Grub Customizer and click save.
 
+## Add PulseEffects
+
+PulseEffects is an EQ and effects for the PulseAudio sound on the system.  Puts an app called "EasyEffects" on your system so you can add EQ and such.
+
+	sudo dnf install pulseeffects
+
 ## Terminal Theming
 
 Add fonts for Starship to work...
