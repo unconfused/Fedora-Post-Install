@@ -169,6 +169,15 @@ This is fork of Git's Atom IDE after Git dropped it
 	sudo wget https://yum.enpass.io/enpass-yum.repo
 
 	sudo dnf install enpass
+
+## Add Proxychains-NG and Tor
+
+This allows for proxied network traffic via Tor for a specific application, like Firefox.
+
+	sudo dnf install tor proxychains-ng
+ 	sudo systemctl enable tor
+  	sudo systemctl start tor
+   	proxychains firefox
  
 ## Other apps to add
 
