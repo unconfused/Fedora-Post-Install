@@ -178,6 +178,7 @@ This allows for proxied network traffic via Tor for a specific application, like
  	sudo systemctl enable tor
   	sudo systemctl start tor
    	proxychains firefox
+    	proxychains telegram-desktop
  
 ## Other apps to add
 
