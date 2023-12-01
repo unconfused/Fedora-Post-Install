@@ -79,6 +79,14 @@ This will let you enable minimize and maximize buttons for windows.
 
 	sudo dnf install gnome-tweaks
 
+## Gnome Extensions to Add
+
+	https://extensions.gnome.org/extension/307/dash-to-dock/
+ 	https://extensions.gnome.org/extension/615/appindicator-support/
+  	https://extensions.gnome.org/extension/1460/vitals/
+
+  	https://extensions.gnome.org/
+
 ## Custom Kernel Parameters
 
 Allow you to squeeze out a little bit more performance from your system. Do not follow this if you share services and files through your network or are using fedora in a VM.
@@ -147,7 +155,6 @@ Configure starship to make your terminal look good
 I’m using…”Nerd Font Symbols Preset”
 
 Put the downloaded .TOML file in ~/.config and then follow their configuration command line.
-
 
 ## Power settings
 
