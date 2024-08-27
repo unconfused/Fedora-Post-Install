@@ -202,8 +202,13 @@ This allows for proxied network traffic via Tor for a specific application, like
 * lutris - consolidated games launcher and installer, see:  https://lutris.net/
 
 Consolidated command:
-///
+//
 	sudo dnf install telegram-desktop epiphany gimp steam lutris
-/// 	
+//
 ## And just for fun...
 
+//
+sudo dnf install cmatrix
+sudo dnf install sl
+sudo dnf install nyancat
+//
