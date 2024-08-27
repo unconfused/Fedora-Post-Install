@@ -186,13 +186,13 @@ This is fork of Git's Atom IDE after Git dropped it
 ## Add Proxychains-NG and Tor
 
 This allows for proxied network traffic via Tor for a specific application, like Firefox.
-
+//
 	sudo dnf install tor proxychains-ng
  	sudo systemctl enable tor
   	sudo systemctl start tor
    	proxychains firefox
 	proxychains telegram-desktop
-
+//
 ## Other apps to add
 
 * telegram-desktop - Telegram for the desktop
@@ -205,4 +205,5 @@ Consolidated command:
 
 	sudo dnf install telegram-desktop epiphany gimp steam lutris
  	
+## And just for fun...
 
