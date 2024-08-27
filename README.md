@@ -193,6 +193,17 @@ This allows for proxied network traffic via Tor for a specific application, like
    	proxychains firefox
 	proxychains telegram-desktop
 
+## Add "thefuck" command predictor
+
+Install this:
+
+	sudo dnf install thefuck
+
+Then add this to your ~/.bashrc file:
+
+	alias fuck='eval $(thefuck $(fc -ln -1)); history -r'
+	alias FUCK='fuck'
+
 ## Other apps to add
 
 * telegram-desktop - Telegram for the desktop
