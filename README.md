@@ -50,7 +50,7 @@ Go to settings, About...or...
 
 ## Add H264 for Firefox
 
-	sudo dnf config-manager --set-enabled fedora-cisco-openh264
+	sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1
 	sudo dnf install -y openh264 gstreamer1-plugin-openh264 mozilla-openh264
 
 ## Update Firmware
